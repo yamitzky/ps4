@@ -16,7 +16,8 @@ libraryDependencies ++= Seq(
   "org.scalikejdbc" %% "scalikejdbc-syntax-support-macro"  % "2.1.2",
   "org.skinny-framework" %% "skinny-orm"                   % "1.3.1",
   "mysql" % "mysql-connector-java" % "5.1.31",
-  "com.github.nscala-time" %% "nscala-time" % "1.2.0"
+  "com.github.nscala-time" %% "nscala-time" % "1.2.0",
+  "org.json4s" %% "json4s-jackson" % "3.2.10"
 )
 
 scalikejdbcSettings
