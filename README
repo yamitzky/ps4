@@ -1,4 +1,6 @@
-This is your new Play application
+PS4, Play framework, Skinny-ORM, ScalikeJDBC, Scala, Start
 =================================
 
-This file will be packaged with your application, when using `activator dist`.
+This is boilerplate project using Play framework, Skinny-ORM, ScalikeJDBC(, and json4s).
+
+Play Framework、Skinny-ORM, ScalikeJDBC(とjson4s)を使ったテンプレートプロジェクトです。
