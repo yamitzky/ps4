@@ -1,7 +1,7 @@
 package controllers
 
 import org.json4s.JsonDSL._
-import org.json4s.jackson.JsonMethods.{render => renderjs, _}
+import org.json4s.jackson.JsonMethods.{ render => renderjs, _ }
 import play.api.mvc._
 
 object Application extends Controller {
